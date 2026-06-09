@@ -1,0 +1,6 @@
+{
+  "name": "Top Site",
+  "description": "Crie seu site profissional de alta conversão. Oferta de lançamento: 12x de R$ 30 para os 10 primeiros clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
